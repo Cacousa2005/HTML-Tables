@@ -38,6 +38,10 @@ p{
   color: #804000;
   font-weight: 900;
 }
+#subtitle{
+  font-weght: normal;
+  margin: 20px;
+  }
 .child {
   font-family: arial, sans-serif;
   border-collapse: collapse;
